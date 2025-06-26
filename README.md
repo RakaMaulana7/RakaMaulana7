@@ -2,7 +2,7 @@
 
 ---
 ## 💫 About Me:
-Informatics Student | Web Developer | Machine Learning Enthusiast
+I'm passionate about technology and currently focused on mastering Web Development while diving into the world of Machine Learning.
 
 ---
 ## 🌐 Socials:
