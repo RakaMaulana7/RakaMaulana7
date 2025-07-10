@@ -15,7 +15,6 @@ I'm passionate about technology and currently focused on mastering Web Developme
 ---
 <img src="https://raw.githubusercontent.com/RakaMaulana7/RakaMaulana7/output/snake.svg" alt="Snake animation" />
 
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
